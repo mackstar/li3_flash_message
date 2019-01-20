@@ -13,7 +13,8 @@
         }
     ],
     "require": {
-        "composer/installers": "*"
+        "composer/installers": "*",
+        "unionofrad/lithium": "1.1.1"
     },
     "suggest": {
         "UnionOfRAD/lithium": "Lithium is required for this plugin."
